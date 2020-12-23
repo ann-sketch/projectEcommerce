@@ -4,7 +4,7 @@
         public PDO $pdo;
 
         public function __construct(){
-            $this->pdo = new PDO('mysql:server=localhost;dbname=notes', 'root', '');
+            $this->pdo = new PDO('mysql:server=remotemysql.com;dbname=XXsvTwHH5i', 'XXsvTwHH5i', '7ikditXWYb');
             $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         }
 
