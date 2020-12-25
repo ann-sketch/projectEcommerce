@@ -1,3 +1,4 @@
+<php
 'mysql' => [
             'driver' => 'mysql',
 +           'host' => env('DB_HOST', 'remotemysql.com'),
@@ -14,3 +15,4 @@
             'strict' => true,
             'engine' => null,
         ],
+?>
