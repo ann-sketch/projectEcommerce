@@ -6,13 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>ArmorShooter</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
+  
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -51,8 +45,8 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="signup.php">Sign Up</a></li>
-          <li><a href="login.php">Login</a></li>
+          <li><a href="pages/forms/signup.php">Sign Up</a></li>
+          <li><a href="pages/forms/login.php">Login</a></li>
           <!-- <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#pricing">Pricing</a></li>
           <li><a href="#team">Team</a></li> -->
@@ -121,22 +115,22 @@
       <div class="card">
         <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title text-center">Card title</h5>
-          <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
+          <h5 class="card-title text-center orange">Card title</h5>
+          <p class="card-text text-center">GHC 10 <button type="submit" style="background-color: #ef6603; color: #fff; border: 0;">Add to Cart</button></p>
         </div>
       </div>
       <div class="card">
         <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-center">Card title</h5>
-          <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
+          <p class="card-text text-center">GHC 10 <button type="submit" style="background-color: #ef6603; color: #fff; border: 0;">Add to Cart</button></p>
         </div>
       </div>
       <div class="card">
         <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-center">Card title</h5>
-          <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
+          <p class="card-text text-center">GHC 10 <button type="submit" style="background-color: #ef6603; color: #fff; border: 0;">Add to Cart</button></p>
         </div>
       </div>
     </div>
