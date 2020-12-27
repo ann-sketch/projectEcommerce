@@ -119,21 +119,21 @@
   <div class="card-container">
     <div class="card-deck">
       <div class="card">
-        <img src="assets/img/apple-touch-icon.png" class="card-img-top" alt="...">
+        <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-center">Card title</h5>
           <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
         </div>
       </div>
       <div class="card">
-        <img src="assets/img/apple-touch-icon.png" class="card-img-top" alt="...">
+        <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-center">Card title</h5>
           <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
         </div>
       </div>
       <div class="card">
-        <img src="assets/img/apple-touch-icon.png" class="card-img-top" alt="...">
+        <img src="assets/img/gun.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-center">Card title</h5>
           <p class="card-text text-center">GHC 10 <a href="#" class="btn btn-primary">Add to Cart</a></p>
